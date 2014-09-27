@@ -1,7 +1,7 @@
 <?php
 
-require_once 'Turing/TuringTestConfig.php'
-require_once 'PHPUnit/Framework/TestCase.php';
+require_once 'Turing/TuringTestConfig.php';
+require_once 'PHPUnit/Framework/TestCase.php'
 
 /**
  * @package   Turing
