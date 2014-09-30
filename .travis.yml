@@ -1,2 +1,2 @@
 language: php
-script: php -l Turing/TuringAtomTest.php
+script: find -name '*.php' -print0 | xargs -n1 php -l
