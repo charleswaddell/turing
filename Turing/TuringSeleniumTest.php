@@ -1,7 +1,7 @@
 <?php
 
-require_once 'Swat/SwatDate.php';
-require_once 'Turing/TuringTestConfig.php'
+require_once 'Swat/SwatDate.php'
+require_once 'Turing/TuringTestConfig.php';
 require_once 'PHPUnit/Extensions/SeleniumTestCase.php';
 
 /**
